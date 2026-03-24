@@ -1,4 +1,4 @@
----
+bang kena badan pecah kayak mana---
 manufacturer:
     - huawei
 
